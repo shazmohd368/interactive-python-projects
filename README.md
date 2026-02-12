@@ -7,7 +7,8 @@ This repository contains structured implementations of small interactive games a
 
 ## Projects
 
-1. Rock Paper Scissors Lizard Spock
+1. [Rock Paper Scissors Lizard Spock](01-rock-paper-scissors-lizard-spock)
+
    - Functions
    - Conditional logic
    - Modulo arithmetic
