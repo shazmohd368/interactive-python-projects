@@ -68,3 +68,14 @@ invalid input
 - How to simplify complex conditional logic using mathematics
 - Structuring a small interactive Python program
 - Separating logic into reusable functions
+
+
+## ▶️ How to Run
+
+Make sure Python 3 is installed.
+
+
+Run the program using:
+
+```bash
+python main.py
