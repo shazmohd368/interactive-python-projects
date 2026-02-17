@@ -25,7 +25,7 @@ Concepts covered:
 ### 2. [Guess the Number](02-guess-the-number)
 
 Concepts covered:
-- Event-driven programming
+- Event driven programming
 - Global state management
 - Random number generation
 - Game logic design
