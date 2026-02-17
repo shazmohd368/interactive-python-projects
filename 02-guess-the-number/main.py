@@ -1,6 +1,8 @@
 # Guess the number mini project
 
 import simplegui
+# Note: Uses simplegui from CodeSkulptor (educational environment).
+
 import random
 
 
