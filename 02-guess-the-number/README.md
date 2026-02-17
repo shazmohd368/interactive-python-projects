@@ -40,4 +40,6 @@ To run:
 2. Paste the contents of `main.py`.
 3. Click Run.
 
-⚠️ Note: `simplegui` is not part of standard Python and will not run locally without modification.
+
+
+
