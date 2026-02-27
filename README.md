@@ -1,11 +1,11 @@
 # Rice University – Interactive Python Projects
 
-Mini projects completed from the course:
+Mini projects completed from the courses:
 
-"An Introduction to Interactive Programming in Python"  
-+ "Principles of Computing"
+- "An Introduction to Interactive Programming in Python"
+- "Principles of Computing"
 
-This repository contains structured implementations of small interactive games and programs built while strengthening core Python fundamentals.
+This repository contains structured implementations of interactive games and programs built while strengthening core Python fundamentals and event-driven programming concepts.
 
 ---
 
@@ -25,11 +25,22 @@ Concepts covered:
 ### 2. [Guess the Number](02-guess-the-number)
 
 Concepts covered:
-- Event driven programming
+- Event-driven programming
 - Global state management
 - Random number generation
 - Game logic design
 - simplegui framework (CodeSkulptor)
+
+---
+
+### 3. [Stopwatch: The Game](03-stopwatch-the-game)
+
+Concepts covered:
+- Timer events (0.1s interval)
+- Time formatting logic (A:BC.D)
+- State tracking and scoring
+- Draw handlers
+- Interactive game mechanics using simplegui
 
 ---
 
