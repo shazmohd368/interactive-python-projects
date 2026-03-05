@@ -44,4 +44,16 @@ Concepts covered:
 
 ---
 
+### 4. [Pong](04-pong)
+
+Concepts covered:
+- Paddle and ball collision detection
+- Velocity and reflection physics
+- Real-time keyboard controls
+- Game state management
+- Score tracking
+- Interactive graphics using simplegui
+
+---
+
 More projects will be added as the course progresses.
